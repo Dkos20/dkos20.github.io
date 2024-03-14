@@ -7,7 +7,7 @@
 Go to [This Page](https://dkos20.github.io/Gf_website/) to see demo 🙂.
 
 ## About
-I made this website to showcase the lofe for my girlfriend<3333333
+I made this website to showcase the love for my girlfriend<3333333
 
 
 ## License
