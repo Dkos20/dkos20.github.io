@@ -1,4 +1,4 @@
-# Made with ❤️ by [`Dorijan Kos`](github.com/dkos20)
+# Made by [`Dorijan Kos`](github.com/dkos20)
 
 ![Made with love for Ema]
 
@@ -7,7 +7,7 @@
 Go to [This Page](https://dkos20.github.io/Gf_website/) to see demo 🙂.
 
 ## About
-I made this website to showcase the love for my girlfriend<3333333
+I made this website for my amazing girlfriend<3333333
 
 
 ## License
