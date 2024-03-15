@@ -4,7 +4,7 @@
 
 
 
-Go to [This Page](https://dkos20.github.io/) to see demo 🙂.
+Go to [This Page](http://foremafromdorijan.online/) to see demo 🙂.
 
 ## About
 I made this website for my amazing girlfriend<3333333
